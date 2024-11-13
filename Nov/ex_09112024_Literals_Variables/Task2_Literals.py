@@ -13,5 +13,5 @@ Div=num1/num2
 
 print("The addition of numbers are: ", Sum)
 print("The multiplication of numbers are:", Mul)
-print("The substraction of numbers are:", Sub)
+print("The subtraction of numbers are:", Sub)
 print("The division of numbers are:", Div)
